@@ -30,7 +30,7 @@ Placement/
 Setup Instructions
 
 1.	Clone the repository:
- git clone https://github.com/yourusername/student-placement-prediction.git
+ git clone https://github.com/Shubhamf0073/College-placement-prediction.git
 cd student-placement-prediction
 
 2.	Install dependencies:
